@@ -1,0 +1,101 @@
+route_id,route_short_name,route_long_name,route_color,route_color_id,route_text_color
+TEAL,12,Teal,Teal,6991,ffffff
+TEAL LATE NIGHT SUNDAY,120,Teal Late Night Sunday,Teal,6991,ffffff
+TEAL SATURDAY,120,Teal Saturday,Teal,6991,ffffff
+TEAL LATE NIGHT SATURDAY,120,Teal Late Night Saturday,Teal,6991,ffffff
+TEAL LATE NIGHT,120,Teal Late Night,Teal,6991,ffffff
+TEAL EVENING SATURDAY,120,Teal Evening Saturday,Teal,6991,ffffff
+TEAL EVENING,120,Teal Evening,Teal,6991,ffffff
+TEAL SUNDAY,120,Teal Sunday,Teal,6991,ffffff
+5E GREEN EXPRESS 1 ALT,5,Green Express 1 Alternate,Green,8063,ffffff
+5E GREEN EXPRESS ALT,5,Green Express Alternate,Green,8063,ffffff
+GREENHOPPER,5,Greenhopper,Green,8063,ffffff
+GREEN,5,Green,Green,8063,ffffff
+GREEN EXPRESS ALT,5,Green Express 2 Alternate,Green,8063,ffffff
+5W GREEN ALT 2,5,Green 2 Alternate,Green,8063,ffffff
+GREEN ALT,5,Green Alternate,Green,8063,ffffff
+5W GREEN EXPRESS 2,5,Green West Express,Green,8063,ffffff
+GREEN EXPRESS,5,Green Express,Green,8063,ffffff
+GREEN EVENING SATURDAY,50,Green Evening Saturday,Green,8063,ffffff
+GREEN LATE NIGHT SATURDAY,50,Green Late Night Saturday,Green,8063,ffffff
+GREEN SATURDAY,50,Green Saturday,Green,8063,ffffff
+GREENHOPPER EVENING SATURDAY,50,Greenhopper Evening Saturday,Green,8063,ffffff
+GREENHOPPER EVENING,50,Greenhopper Evening,Green,8063,ffffff
+GREEN EVENING,50,Green Evening,Green,8063,ffffff
+GREEN LATE NIGHT SUNDAY,50,Green Late Night Sunday,Green,8063,ffffff
+GREEN LATE NIGHT,50,Green Late Night,Green,8063,ffffff
+GREEN SUNDAY,50,Green Sunday,Green,8063,ffffff
+GREY ALT,7,Grey Alternate,Grey,808285,0
+GREY,7,Grey,Grey,808285,0
+7E GREY ALT,7,Grey E Alternate,Grey,808285,0
+7W GREY ALT,7,Grey W Alternate,Grey,808285,0
+GREY SATURDAY,70,Grey Saturday,Grey,808285,0
+GREY EVENING,70,Grey Evening,Grey,808285,0
+GREY EVENING SATURDAY,70,Grey Evening Saturday,Grey,808285,0
+GREY SUNDAY,70,Grey Sunday,Grey,808285,0
+BROWN ALT PM,9,Brown Alternate PM,Brown,823822,ffffff
+BROWN ALT,9,Brown A Alternate,Brown,823822,ffffff
+BROWN,9,Brown,Brown,825622,ffffff
+BROWN ALT1,9,Brown Alternate,Brown,825622,ffffff
+NAVY,14,Navy,Navy,2b3088,ffffff
+BLUE,4,Blue,Blue,355caa,ffffff
+ILLINI,22,Illini,Illini,5a1d5a,ffffff
+ILLINI LIMITED,22,Illini Limited,Illini,5a1d5a,ffffff
+ILLINI EVENING SUNDAY,220,Illini Evening Sunday,Illini,5a1d5a,ffffff
+ILLINI LIMITED SUNDAY,220,Illini Limited Sunday,Illini,5a1d5a,ffffff
+ILLINI EVENING SATURDAY,220,Illini Evening Saturday,Illini,5a1d5a,ffffff
+ILLINI LIMITED EVENING SATURDAY,220,Illini Limited Evening Saturday,Illini,5a1d5a,ffffff
+ILLINI LIMITED EVENING,220,Illini Limited Evening,Illini,5a1d5a,ffffff
+ILLINI EVENING,220,Illini Evening,Illini,5a1d5a,ffffff
+ILLINI LIMITED SATURDAY,220,Illini Limited Saturday,Illini,5a1d5a,ffffff
+BRONZE YANKEE RIDGE,8,Bronze Yankee Ridge,Bronze,9e8966,0
+BRONZE ALT,8,Bronze Alternate,Bronze,9e8966,0
+BRONZE,8,Bronze,Bronze,9e8966,0
+3S LAVENDER ALT,3,Lavender 1 Alternate,Lavender,a78bc0,0
+LAVENDER ALT,3,Lavender Alternate,Lavender,a78bc0,0
+LAVENDER,3,Lavender,Lavender,a78bc0,0
+LAVENDER SUNDAY,30,Lavender Sunday,Lavender,a78bc0,0
+LAVENDER SATURDAY,30,Lavender Saturday,Lavender,a78bc0,0
+LIME EVENING SATURDAY,180,Lime Evening Saturday,Lime,b2d235,0
+LIME SATURDAY,180,Lime Saturday,Lime,b2d235,0
+LIME SUNDAY,180,Lime Sunday,Lime,b2d235,0
+LIME EVENING,180,Lime Evening,Lime,b2d235,0
+GOLD ALT,10,Gold 1 Alternate,Gold,c7994a,0
+GOLD,10,Gold,Gold,c7994a,0
+10W GOLD ALT,10,Gold Alternate,Gold,c7994a,0
+GOLDHOPPER,10,Goldhopper,Gold,c7994a,0
+SILVER,13,Silver,Silver,cccccc,0
+SILVER EVENING SUNDAY,130,Silver Evening Sunday,Silver,cccccc,0
+SILVER SUNDAY,130,Silver Sunday,Silver,cccccc,0
+SILVER EVENING,130,Silver Evening,Silver,cccccc,0
+SILVER LATE NIGHT,130,Silver Late Night,Silver,cccccc,0
+SILVER EVENING SATURDAY,130,Silver Evening Saturday,Silver,cccccc,0
+SILVER SATURDAY,130,Silver Saturday,Silver,cccccc,0
+SILVER LIMITED SATURDAY,130,Silver Limited Saturday,Silver,d1d3d4,0
+SILVER LIMITED SUNDAY,130,Silver Limited Sunday,Silver,d1d3d4,0
+SILVER LIMITED EVENING SATURDAY,130,Silver Limited Evening Saturday,Silver,d1d3d4,0
+SILVER LIMITED EVENING,130,Silver Limited Evening,Silver,d1d3d4,0
+RUBY,11,Ruby,Ruby,eb008b,0
+RUBY SATURDAY,110,Ruby Saturday,Ruby,eb008b,0
+RUBY SUNDAY,110,Ruby Sunday,Ruby,eb008b,0
+RUBY EVENING SATURDAY,110,Ruby Evening Saturday,Ruby,eb008b,0
+RUBY EVENING,110,Ruby Evening,Ruby,eb008b,0
+RED SATURDAY,20,Red Saturday,Red,ed1c23,0
+RED,2,Red,Red,ed1c24,0
+ORANGEHOPPER,6,Orangehopper,Orange,f99f2a,0
+ORANGE,6,Orange,Orange,f99f2a,0
+ORANGE ALT,6,Orange Alternate,Orange,f99f2a,0
+YELLOW,1,Yellow,Yellow,fcee1f,0
+1N YELLOW ALT PM,1,Yellow Alternate PM,Yellow,fcee1f,0
+1 YELLOW ALT,1,Yellow Alternate,Yellow,fcee1f,0
+1N YELLOW ALT,1,Yellow N Alternate,Yellow,fcee1f,0
+1S YELLOW ALT,1,Yellow S Alternate,Yellow,fcee1f,0
+YELLOWHOPPER,1,Yellowhopper,Yellow,fcee1f,0
+YELLOW LATE NIGHT SUNDAY,100,Yellow Late Night Sunday,Yellow,fcee1f,0
+YELLOW SUNDAY,100,Yellow Sunday,Yellow,fcee1f,0
+YELLOW EVENING SATURDAY,100,Yellow Evening Saturday,Yellow,fcee1f,0
+YELLOW EVENING,100,Yellow Evening,Yellow,fcee1f,0
+YELLOW LATE NIGHT SATURDAY,100,Yellow Late Night Saturday,Yellow,fcee1f,0
+YELLOW LATE NIGHT,100,Yellow Late Night,Yellow,fcee1f,0
+YELLOW SATURDAY,100,Yellow Saturday,Yellow,fcee1f,0
+PINK,16,Pink,Pink,ffbfff,0
